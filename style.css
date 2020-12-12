@@ -1,0 +1,38 @@
+
+.container
+{
+ 
+    
+        width: 1500px;
+        height: 800px;
+        padding: 50px;
+        border: 1px solid red;
+        box-sizing: border-box;
+        background-color: white;
+        align-self: center;
+        margin: auto;
+        width: 70%;
+        border: 15px solid green;
+        padding: 15px;
+
+
+}
+.main-heading
+{
+background-color: aliceblue;
+
+
+}
+section{
+border: 2px solid black;
+outline: #4CAF50 solid 10px;
+margin: auto;  
+padding: 20px;
+text-align: center;}
+
+#button {
+
+
+
+
+}
